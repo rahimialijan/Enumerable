@@ -130,7 +130,15 @@ You can deploy this project using:
 
 👤 **Alijan Rahimi**
 
-👤 **Mesak Lalrindika**
+- GitHub: [@Alijan-Rahimi](https://github.com/rahimialijan)
+- Twitter: [@AlijanRahimi10](https://twitter.com/AlijanRahimi10)
+- LinkedIn: [Alijan-Rahimi](https://www.linkedin.com/in/alijan-rahimi-18389ab3)
+
+👤 **MesakDuduCoder**
+
+- GitHub: [@githubhandle](https://github.com/MesakDuduCoder)
+- Twitter: [@twitterhandle](https://twitter.com/mesak_10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mesak-lalrindika/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
